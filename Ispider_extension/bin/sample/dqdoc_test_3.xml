@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>8/23
+<PaidPublicComplaint>
+<Petition>
+		<opType>U</opType>
+		<Key>
+			<petiNo>1AA-2105-0652432</petiNo>
+		</Key>
+		<Data>
+			<petiNo>1AA-2105-0652432</petiNo>
+			<title><![CDATA[(SPP-2105-1711925)도로로 유출된 토사 하루가저물어 가는데긴급 복구가 ]]></title>
+			<reason><![CDATA[[민원 유입 경로]: 모바일[사고발생지역]광주광역시 광산구 연산동 1138-18[처리요청기관]:광산구]]></reason>
+			<returnMethodCode>00570003</returnMethodCode>
+			<returnMethodName><![CDATA[홈페이지]]></returnMethodName>
+			<receivePathCode/>
+			<receivePathName/>
+			<parentPetiNo>0000000000000000</parentPetiNo>
+			<parentPetiRelation/>
+			<oldPetiNo/>
+			<regDate>20210517</regDate>
+			<regDateTime>20210517224850</regDateTime>
+			<isOpened>N</isOpened>
+			<complexCode/>
+			<isHighst/>
+			<isHurry>N</isHurry>
+			<statusCode>00620010</statusCode>
+			<statusName><![CDATA[신청]]></statusName>
+			<typeCode>00010001</typeCode>
+			<typeName><![CDATA[일반민원]]></typeName>
+			<isGroup>N</isGroup>
+			<isManyPeople/>
+			<catCode/>
+			<catName/>
+			<menuName/>
+			<deptOpenYn><![CDATA[N]]></deptOpenYn>
+			<entCivilYnC><![CDATA[N]]></entCivilYnC>
+			<grp3PetiYnC><![CDATA[N]]></grp3PetiYnC>
+			<corpName/>
+			<corpCode/>
+			<addCorpName/>
+			<addCorpCode/>
+			<mailAttchYnC><![CDATA[N]]></mailAttchYnC>
+			<Petitioner>
+				<name><![CDATA[김영진]]></name>
+				<jobCode/>
+				<jobName><![CDATA[기타]]></jobName>
+				<zipCode/>
+				<address1><![CDATA[광주 광산구 내상로 38 (송정동) 송정동]]></address1>
+				<address2/>
+				<email><![CDATA[nedvac@hanmail.net]]></email>
+				<cellPhone>01036334645</cellPhone>
+				<linePhone>01036334645</linePhone>
+				<birthDate/>
+				<sex/>
+				<isKorean>Y</isKorean>
+			</Petitioner>
+		</Data>
+	</Petition>
+	</PaidPublicComplaint>

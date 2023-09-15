@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/jar파일/emoji-java-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="C:/dq-ispider4-4.3.1.5_bak/lib/ispider_common.jar"/>
+	<classpathentry kind="lib" path="C:/dq-ispider4-4.3.1.5_bak/lib/ispider_core.jar"/>
+	<classpathentry kind="lib" path="C:/dq-ispider4-4.3.1.5_bak/lib/ispider_server.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/dq-ispider4-4.3.1.5_bak/lib/diator.jar"/>
+	<classpathentry kind="lib" path="C:/Tomcat 9.0/lib/catalina.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://tomcat.apache.org/tomcat-9.0-doc/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/jar파일/m4_common.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/jsoup-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/gson-2.8.7.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/mybatis-3.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/commons.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/commons-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/jar파일/commons2-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
