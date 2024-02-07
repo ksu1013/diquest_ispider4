@@ -8,11 +8,10 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/jar파일/emoji-java-5.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/jar파일/org.json-20120521.jar"/>
-	<classpathentry kind="lib" path="C:/dq-ispider4-4.3.1.5_bak/lib/ispider_common.jar"/>
-	<classpathentry kind="lib" path="C:/dq-ispider4-4.3.1.5_bak/lib/ispider_core.jar"/>
-	<classpathentry kind="lib" path="C:/dq-ispider4-4.3.1.5_bak/lib/ispider_server.jar"/>
+	<classpathentry kind="lib" path="C:/ispider4/lib/ispider_common.jar"/>
+	<classpathentry kind="lib" path="C:/ispider4/lib/ispider_server.jar"/>
 	<classpathentry kind="lib" path="C:/jar파일/json-simple-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/dq-ispider4-4.3.1.5_bak/lib/diator.jar"/>
+	<classpathentry kind="lib" path="C:/ispider4/lib/ispider_core.jar"/>
 	<classpathentry kind="lib" path="C:/Tomcat 9.0/lib/catalina.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="https://tomcat.apache.org/tomcat-9.0-doc/api/"/>
@@ -28,5 +27,6 @@
 	<classpathentry kind="lib" path="C:/jar파일/commons.jar"/>
 	<classpathentry kind="lib" path="C:/jar파일/commons-1.0.jar"/>
 	<classpathentry kind="lib" path="C:/jar파일/commons2-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/ispider4/lib/diator.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

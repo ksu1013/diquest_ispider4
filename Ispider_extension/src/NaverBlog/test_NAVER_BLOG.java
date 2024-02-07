@@ -217,12 +217,12 @@ public class test_NAVER_BLOG{
 			mc1 = pt1.matcher(htmlSrc);
 			SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
 			
-			if(mc1.find()) {
-				FORUM_DATE=mc1.group(1).replaceAll(" ", "");
-				if(!FORUM_DATE.contains(".")) {
-					FORUM_DATE = common.CommonPattern(FORUM_DATE, "yyyyMMdd", Locale.US);					
-				}
-			}
+//			if(mc1.find()) {
+//				FORUM_DATE=mc1.group(1).replaceAll(" ", "");
+//				if(!FORUM_DATE.contains(".")) {
+//					FORUM_DATE = common.CommonPattern(FORUM_DATE, "yyyyMMdd", Locale.US);					
+//				}
+//			}
 //			else { 
 //				Date now = new Date();
 //				FORUM_DATE = dateFormat.format(now);
